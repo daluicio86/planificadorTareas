@@ -5,7 +5,7 @@ import FooterV1 from '../components/footer/FooterV1';
 import HeaderV1 from '../components/header/HeaderV1';
 
 export const metadata = {
-    title: "404 Error - Constructores Positivos"
+    title: "404 Error - Doctorcell"
 }
 
 const NotFound = () => {

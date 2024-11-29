@@ -1,7 +1,7 @@
 import Home from "@/src/app/home/page";
 
 export const metadata = {
-  title: "Constructores Positivos",
+  title: "Doctorcell",
 };
 
 const HomePage = () => {

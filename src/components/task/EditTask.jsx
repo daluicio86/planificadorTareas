@@ -75,7 +75,7 @@ const EditTask = ({ item }) => {//id, nombre, ruc, telefono, email, constructora
     const handleDateChange = (e) => {
 
         console.log('item', e.$d.toJSON())
-        
+
         setTask((prev) => ({
             ...prev,
             ['fecha']: e.$d.toJSON(),
@@ -89,14 +89,7 @@ const EditTask = ({ item }) => {//id, nombre, ruc, telefono, email, constructora
         });
     };
 
-    const guardaTask = () => {
 
-        //console.log('task', task)
-        registrarTarea(task).then((response) => {
-            //cargar grid con el nuevo sponsor
-            setTask(clearTask);
-        });
-    };
 
     useEffect(() => {
         setTask(item);
@@ -114,7 +107,8 @@ const EditTask = ({ item }) => {//id, nombre, ruc, telefono, email, constructora
                                 <Grid item md={12} xs={12} className='gridmb'>
                                     <LocalizationProvider dateAdapter={AdapterDayjs}>
                                         <DatePicker name='fecha' onChange={handleDateChange} />
-                                    </LocalizationProvider>            </Grid>
+                                    </LocalizationProvider>
+                                </Grid>
                                 <Grid item md={12} xs={12} className='gridmb'>
                                     <TextField
                                         className='txtmb'
