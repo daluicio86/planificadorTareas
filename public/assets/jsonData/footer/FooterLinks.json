@@ -1,0 +1,35 @@
+{
+    "title": "Recursos",
+    "linkData": [
+        {
+            "id": 1,
+            "linkText": "Blog",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/blog-sustent"
+        },
+        {
+            "id": 2,
+            "linkText": "Sustentabilidad",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/sustainability"
+        },
+        {
+            "id": 3,
+            "linkText": "Casos de éxito",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "linkText": "Cifras",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/construction-data"
+        },
+        {
+            "id": 5,
+            "linkText": "Contacto",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        }
+    ]
+}

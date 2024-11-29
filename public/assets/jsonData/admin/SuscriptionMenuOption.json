@@ -1,0 +1,94 @@
+{
+  "title": "DATOS SUSCRIPCIÓN",
+  "categoriesData": [
+    {
+      "id": 1,
+      "title": "SUSCRIPCIÓN",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-subscription-data",
+      "tipo": 1
+    },
+    {
+      "id": 2,
+      "title": "DATOS - PERSONA NATURAL",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-personal-data",
+      "tipo": 1
+    },
+    {
+      "id": 3,
+      "title": "TIPO DE ACTIVIDAD",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "promo-tipo-act",
+      "tipo": 1
+    },
+    {
+      "id": 4,
+      "title": "CATEGORÍA",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-categorie",
+      "tipo": 1
+    },
+    {
+      "id": 5,
+      "title": "VENTAS",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-annual-sales",
+      "tipo": 1
+    },
+    {
+      "id": 6,
+      "title": "DATOS PARA LA FACTURA",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-invoice-data",
+      "tipo": 1
+    },
+    {
+      "id": 7,
+      "title": "PAGO",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-pago",
+      "tipo": 1
+
+    },
+    {
+      "id": 8,
+      "title": "MEDIOS DE PAGO",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-payment-methods",
+      "tipo": 1
+    },
+    {
+      "id": 9,
+      "title": "PARTICIPANTES AGREGADOS AL CHAT",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-chat-participants",
+      "tipo": 1
+    },
+    {
+      "id": 10,
+      "title": "CONTACTO PARA BENEFICIOS",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-contact-for-benefits",
+      "tipo": 1
+    },
+    {
+      "id": 11,
+      "title": "ACUERDOS Y DOCUMENTOS",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/promo-agreements-documents",
+      "tipo": 1
+    }         
+  ]
+}

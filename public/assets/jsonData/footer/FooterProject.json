@@ -1,0 +1,25 @@
+{
+  "title": "Aliados estratégicos",
+  "projectData": [
+    {
+      "id": 1,
+      "thumb": "gif_pichincha.gif",
+      "link": "https://creditohipotecario.pichincha.com/calculadora"
+    },
+    {
+      "id": 2,
+      "thumb": "GIF_FONDO_AZUL.gif",
+      "link": "https://www.biess.fin.ec/hipotecarios"
+    },
+    {
+      "id": 3,
+      "thumb": "footer-bg.jpg",
+      "link": ""
+    },
+    {
+      "id": 4,
+      "thumb": "otro_btn.gif",
+      "link": "https://www.mutualistapichincha.com/en/cr%C3%A9ditos-de-vivienda-hasta-usd-105.340"
+    }
+  ]
+}

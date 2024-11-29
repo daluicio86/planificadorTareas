@@ -1,0 +1,20 @@
+{
+    "subTitle": "Bolsa de Empleo",
+    "title": "Encuentra las mejores oportunidades",
+    "priceData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "title": "Ofertas laborales",
+            "btnText": "Cargar",
+            "link":"https://forms.gle/ygFCjBNuhNh8DTkT9"
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "title": "Plazas de empleo",
+            "btnText": "Aplicar",
+            "link":"https://forms.gle/byE3x4zMu5DzcPFH8"
+        }
+    ]
+}

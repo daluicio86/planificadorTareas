@@ -1,0 +1,13 @@
+{
+  "title": "MENÚ",
+  "categoriesData": [
+    {
+      "id": 1,
+      "title": "Listado de Tareas",
+      "icon": "bi bi-chevron-right",
+      "categoriesLink": "service-details",
+      "link": "/edit-task",
+      "tipo": 1
+    }
+  ]
+}

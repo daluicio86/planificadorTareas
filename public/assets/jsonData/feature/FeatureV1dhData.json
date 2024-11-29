@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "activeClass": "",
+    "featureNumber": "",
+    "thumb": "1 Proyectos sustentables .png",
+    "titleFirst": "Proyectos",
+    "titleLast": "sustentables",
+    "icon": "bi bi-arrow-up-right",
+    "link": "/dreamsHouse/sustainability"
+  },
+  {
+    "id": 2,
+    "activeClass": "active",
+    "featureNumber": "two",
+    "thumb": "2 Constructor Positivo.png",
+    "titleFirst": "Constructor",
+    "titleLast": "Positivo",
+    "icon": "bi bi-arrow-up-right",
+    "link": "/dreamsHouse/members"
+  },
+  {
+    "id": 3,
+    "activeClass": "",
+    "featureNumber": "",
+    "thumb": "3VIS_VIP.png",
+    "titleFirst": "VIS Y",
+    "titleLast": "VIP",
+    "icon": "bi bi-arrow-up-right",
+    "link": "/dreamsHouse/527"
+  }
+]

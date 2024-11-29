@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "1 Proveedores de Materiales.png",
+        "titleFirst": "Proveedores",
+        "titleLast": "de Materiales",
+        "icon": "bi bi-arrow-up-right",
+        "link": "/provider"
+    },
+    {
+        "id": 2,
+        "activeClass": "active",
+        "featureNumber": "two",
+        "thumb": "2 La Casa de tus Suenio .png",
+        "titleFirst": "La Casa de tus",
+        "titleLast": " Sueños",
+        "icon": "bi bi-arrow-up-right",
+        "link": "/dreamsHouse/0"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "3 Especialistas de la Construccion.png",
+        "titleFirst": "Especialistas de",
+        "titleLast": "la Construcción",
+        "icon": "bi bi-arrow-up-right",
+        "link": "/specialist/0"
+    }
+]

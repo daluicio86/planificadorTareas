@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "activeClass": "",
+    "featureNumber": "",
+    "thumb": "1 Servicios Profesionales  afines a la Construcción .png",
+    "titleFirst": "Servicios ",
+    "titleLast": "Profesionales",
+    "icon": "bi bi-arrow-up-right",
+    "link": "/specialist/2#selectedZone"
+  },
+  {
+    "id": 2,
+    "activeClass": "active",
+    "featureNumber": "two",
+    "thumb": "2 Bolsa de empleo.png",
+    "titleFirst": "Bolsa de Empleo",
+    "titleLast": "",
+    "icon": "bi bi-arrow-up-right",
+    "link": "/bolsa-empleo"
+  },
+  {
+    "id": 3,
+    "activeClass": "",
+    "featureNumber": "",
+    "thumb": "3 Maestro Especialista.png",
+    "titleFirst": "Maestros ",
+    "titleLast": "Especialistas",
+    "icon": "bi bi-arrow-up-right",
+    "link": "/specialist/1#selectedZone"
+  }
+]

@@ -1,0 +1,35 @@
+{
+    "title": "Únete a nosotros",
+    "serviceData": [
+        {
+            "id": 1,
+            "serviceText": " Afíliate",
+            "icon": "bi bi-chevron-double-right",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSex48i8GpiXMRg-6NXucoUaDsBWeOOTxjUcUU40-8OP8WLH_A/viewform"
+        },
+        {
+            "id": 2,
+            "serviceText": "Nuestros voceros",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "serviceText": "Noticias",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/news"
+        },
+        {
+            "id": 4,
+            "serviceText": "Voces a la obra",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "serviceText": "Trámites municipales",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/municipal-procedures"
+        }
+    ]
+}
